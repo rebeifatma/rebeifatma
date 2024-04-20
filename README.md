@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatma REBAI</h1>
 <h3 align="center">Software Engineering student at the National School of Engineering of Tunis ENIT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rebeifatma&label=Profile%20views&color=0e75b6&style=flat" alt="rebeifatma" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rebeifatma" alt="rebeifatma" /></a> </p>
 
