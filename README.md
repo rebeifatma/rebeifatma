@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rebeifatma" alt="rebeifatma" /></a> </p>
 
-- 🌱 I’m currently learning **I'm currently focusing on learning problem-solving techniques, web and mobile development, as well as exploring the field of cybersecurity.**
+- 🌱 I’m currently learning **I'm currently focusing on learning problem-solving techniques, web and mobile development, **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
